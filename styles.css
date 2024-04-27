@@ -1,0 +1,15 @@
+#questions-and-answers {
+    background-color: #f9f9f9; /* Light gray background for contrast */
+    border: 1px solid #ddd; /* Light border to define the section */
+    padding: 20px; /* Padding inside the section */
+    margin: 20px 0; /* Margin around the section */
+}
+
+.qa-item {
+    margin-bottom: 10px; /* Space between question-answer pairs */
+}
+
+.qa-item p {
+    font-size: 1.1em; /* Slightly larger font for readability */
+    color: #333; /* Dark text color */
+}
